@@ -1,0 +1,1 @@
+if score == 100: print("Nilai Anda sempurna!")
